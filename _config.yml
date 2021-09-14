@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "Hafs 급식 분석연구소"
+title                    : "에린월드"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이예린"
-description              : "Hafs 급식을 냉철하게 평가하며 급식 발전에 힘쓰는 곳"
+description              : "infj 에린이의 일상"
 url                      : "https://yelin1122.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  "yelin1122/yelin1122.github.io"
